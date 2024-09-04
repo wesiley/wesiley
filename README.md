@@ -1,7 +1,7 @@
 ### Hi everyone! 👋
 
- I'm Wesley and I am Computer Scientist who <br>
- loves Data Science and Data analysis <br> feels very happy when learning new things <br>
+ I'm Wesley and I am Data Scientist who <br>
+ loves Machine Learning and Data analysis <br> feels very happy when learning new things <br>
  and more happier when teaching <br>
 
 
