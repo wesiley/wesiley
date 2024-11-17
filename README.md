@@ -1,8 +1,8 @@
 ### Hi everyone! 👋
 
- I'm Wesley and I am Data Scientist who <br>
- loves Machine Learning and Data analysis <br> feels very happy when learning new things <br>
- and more happier when teaching <br>
+ I'm Wesley, a Computer Science student :mortar_board: and Data Scientist :game_die: who loves Machine Learning 🤖<br and Data Analysis 📊. <br>
+ I feel very happy when learning new things :books: <br>
+ and even happier when teaching :man_teacher:.
 
 
 ## Github statistics
@@ -48,7 +48,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)&nbsp;
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)&nbsp;
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)&nbsp;
+<!--![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)&nbsp;-->
 
 #### Databases:
 
