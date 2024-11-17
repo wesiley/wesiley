@@ -1,6 +1,7 @@
 ### Hi everyone! 👋
 
- I'm Wesley, a Computer Science student :mortar_board: and Data Scientist :game_die: who loves Machine Learning 🤖 and Data Analysis 📊. <br>
+ I'm Wesley, a Computer Science student :mortar_board: and Data Scientist :game_die: <br>
+ who loves Machine Learning 🤖 and Data Analysis 📊. <br>
  I feel very happy when learning new things :books: <br>
  and even happier when teaching :man_teacher:.
 
